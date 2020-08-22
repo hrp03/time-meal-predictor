@@ -1,0 +1,29 @@
+{
+    "name": "time-meal-predictor",
+    "version": "1.0.0",
+    "description": "Time prediction based on input provided with Brain.js",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hrp03/time-meal-predictor.git"
+    },
+    "keywords": [
+        "neural-network",
+        "brain",
+        "js",
+        "javascript"
+    ],
+    "author": "Himanshu Prajapati @hrp03",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/hrp03/time-meal-predictor/issues"
+    },
+    "homepage": "https://github.com/hrp03/time-meal-predictor#readme",
+    "dependencies": {
+        "brain.js": "^2.0.0-beta.1"
+    }
+}
